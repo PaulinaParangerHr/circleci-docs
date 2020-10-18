@@ -1,12 +1,11 @@
 ---
 layout: classic-docs
-title: "Configuring CircleCI"
-short-title: "Configuring CircleCI"
+title: "Vorbit"
+short-title: "vrt"
 description: "Reference for .circleci/config.yml"
-order: 20
+order: 2021
 version:
-- Cloud
-- Server v2.x
+- Server
 ---
 
 This document is a reference for the CircleCI 2.x configuration keys that are used in the `config.yml` file. The presence of a `.circleci/config.yml` file in your CircleCI-authorized repository branch indicates that you want to use the 2.x infrastructure.
